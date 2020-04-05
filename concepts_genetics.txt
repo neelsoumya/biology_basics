@@ -1,0 +1,5 @@
+The review of a few terms may help in understanding the following lecture. The term locus refers to the chromosomal location of a gene or a DNA marker. A specific DNA sequence is polymorphic if it varies among individuals, and different sequence variants are called alleles. A haplotype is a set of specific co-inherited alleles; typically, these alleles are co-inherited because they are present in the neighboring genetic markers. An individual carrying the same allele in both copies of a locus is homozygous for that allele, while someone carrying two different alleles is heterozygous. Genetic markers are specific DNA sequences that are polymorphic and employed in the mapping of disease genes
+
+https://www.coursera.org/learn/disease-genes/supplement/UX7hL/recommended-pre-reading
+
+
