@@ -461,3 +461,523 @@ References:
 
 
 
+homolgous recombination
+http://www.cureffi.org/2014/10/06/molecular-biology-13/
+
+
+
+Other gloassries
+
+
+Coursera
+0
+Skip to Main Content
+
+From Disease to Genes and Back
+Week 5
+Glossary Week 5
+Prev
+Next
+
+Practice Quiz: Pre-lecture Questions
+2 questions
+Video: LectureMultifactorial Disorders in Clinical Practice
+9 min
+
+    Practice Quiz: Practice Quiz
+    2 questions
+
+Vocabulary. Week 5.docx
+
+Glossary. Week 5
+
+Angelina Jolie (4) - Angelina Jolie Pitt (born June 4, 1975) is an American actress, filmmaker, and humanitarian. On February 16, 2013, at age 37, Jolie underwent a preventive double mastectomy after learning she had an 87% risk of developing breast cancer due to a defective BRCA1 gene. Her maternal family history warranted genetic testing for BRCA mutations: her mother, actress Marcheline Bertrand, had breast cancer and died from ovarian cancer, while her grandmother died from ovarian cancer. Her aunt, who had the same BRCA1 defect, died from breast cancer three months after Jolie's operation. Following the mastectomy, which lowered her chances of developing breast cancer to under 5 percent, Jolie had reconstructive surgery involving implants and allografts. Two years later, in March 2015, after annual test results indicated possible signs of early ovarian cancer, she underwent a preventive oophorectomy, as she had a 50% risk of developing ovarian cancer due to the same genetic anomaly.
+
+Autosomal recessive diseases (5) - Refers to genetic conditions that occur only when mutations are present in both copies of a given gene (i.e., the person is homozygous for a mutation, or carries two different mutations of the same gene, a state referred to as compound heterozygosity).
+
+Causative variant / gene (11) - The mutation / gene that is functionally involved into the development of the disease or trait of interest.
+
+Chaperone proteins (4) - Proteins that assist the covalent folding or unfolding and the assembly or disassembly of other macromolecular structures. Chaperones are present when the macromolecules perform their normal biological functions and have correctly completed the processes of folding and/or assembly. The chaperones are concerned primarily with protein folding. The first protein to be called a chaperone assists the assembly of nucleosomes from folded histones and DNA and such assembly chaperones, especially in the nucleus, are concerned with the assembly of folded subunits into oligomeric structures.
+
+cis-eQTL (4) - Genomic locus that contribute to variation in expression level of mRNA transcribed from gene located in the same locus.
+
+Consanguinity (11) - From the Latin “consanguinitas” - blood relationship. Consanguinity mating is a mating of closely related persons.
+
+Cumulative risk (4) - A measure of the total risk that a certain event will happen during a given period of time. In cancer research, it is the likelihood that a person who is free of a certain type of cancer will develop that cancer by a specific age. For example, a woman with no known risk factors for breast cancer has a cumulative risk of getting breast cancer over a lifetime of 90 years of about 12-13%. This means one out of every eight women will get breast cancer by age 90 years. The cumulative risk estimates for developing breast cancer by age 80 is 72% for women BRCA1 carriers and 69% for BRCA2 carriers.
+
+Double-strand / single strand DNA breaks (4) - Types of DNA damage. Single strand break is the situation when only one of the two strands of a double helix has a defect. In that case the other strand can be used as a template to guide the correction of the damaged strand. Double-strand breaks, in which both strands in the double helix are severed, are particularly hazardous to the cell because they can lead to genome rearrangements.
+
+eQTL (11) - Genomic loci that contribute to variation in RNA expression levels.
+
+Genetic heterogeneity (4) - Genetic heterogeneity is a phenomenon in which a single phenotype or genetic disorder may be caused by any one of a multiple number of alleles in potentially multiple loci. Clinically, genetic heterogeneity refers to diseases that result from multiple gene abnormalities.
+
+Glycans (19) - Glycans are complex carbohydrates that can be attached to a wide variety of biological molecules through an enzymatic process called glycosylation to augment their function. Glycans often exist in the form of oligo- or polysaccharides as well as glycoconjugates, i.e., with a covalent linkage of the glycan portion to proteins or lipids. More than half of all proteins are glycosylated. The attached glycans provide proteins with important structural and functional properties and glycan parts of glycoproteins have essential roles in many key biological processes. Recent comprehensive report endorsed by the US National Academies concluded that “glycans are directly involved in the pathophysiology of every major disease” and the interest in glycomics studies is growing exponentially. More information could be found here: http://dels.nas.edu/Report/Transforming-Glycoscience-Roadmap/13446
+
+Glycosylation (4) - Glycosylation is the enzymatic process by which a carbohydrate is covalently attached to a target macromolecule, typically proteins and lipids.
+
+High-performance liquid chromatography (4) (HPLC; or high-pressure liquid chromatography) - A technique in analytical chemistry used to separate, identify, and quantify each component in a mixture. It relies on pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material. Each component in the sample interacts slightly differently with the adsorbent material, causing different flow rates for the different components and leading to the separation of the components as they flow out the column.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27743354
+
+Liability (4) - Liability is a term used to collectively describe all the genetic and environmental factors that contribute to the development of a multifactorial disorder. Although it is impossible to directly measure the liability of a certain individual, the liability for a group of people can be estimated based on the number of affected individuals within that group. Liability is best represented as a standard distribution curve as most individual who are unaffected will posses some degree of liability with only a small portion of a population having a liability that exceed the threshold level.
+
+Microbiome (4) - This term describes the collective genomes of the microorganisms that reside in an environmental niche.
+
+Microbiota (4) - A microbiota is an "ecological community of commensal, symbiotic and pathogenic microorganisms" found in and on all multicellular organisms studied to date from plants to animals. A microbiota includes bacteria, archaea, protists, fungi and viruses. Microbiota have been found to be crucial for immunologic, hormonal and metabolic homeostasis of their host.
+
+Oncogenes (4) - An oncogene is a gene that has the potential to cause cancer. In tumor cells, they are often mutated and/or expressed at high levels.
+
+Positional cloning (7) - Positional cloning is a method of gene identification in which a gene for a specific phenotype is identified only by its approximate chromosomal location (but not the function); this is known as the candidate region. Initially, the candidate region can be defined using techniques such as linkage analysis, and positional cloning is then used to narrow the candidate region until the gene and its mutations are found. Positional cloning typically involves the isolation of partially overlapping DNA segments from genomic libraries to progress along the chromosome toward a specific gene. During the course of positional cloning, one needs to determine whether the DNA segment currently under consideration is part of the gene. More information could be found here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908434/
+
+QTL (11) - A genomic region (the locus) genetic variation in which correlates with variation of studied quantitative trait.
+
+Relative risk (4) - Relative risk or risk ratio (RR) is the ratio of the probability of an event occurring (for example, developing a disease, being injured) in an exposed group to the probability of the event occurring in a comparison, non-exposed group.
+
+RNAseq (4) - RNA-Seq (RNA sequencing), also called whole transcriptome shotgun sequencing (WTSS), uses next-generation sequencing (NGS) to reveal the presence and quantity of RNA in a biological sample at a given moment in time. RNA-Seq facilitates the ability to look at alternative gene spliced transcripts, post-transcriptional modifications, gene fusion, mutations/SNPs and changes in gene expression over time, or differences in gene expression in different groups or treatments. In addition to mRNA transcripts, RNA-Seq can look at different populations of RNA to include total RNA, small RNA, such as miRNA, tRNA, and ribosomal profiling. RNA-Seq can also be used to determine exon/intron boundaries and verify or amend previously annotated 5' and 3' gene boundaries.
+
+Sibling (4) - A sibling is one of two or more individuals having both parents in common.
+
+trans-eQTL (4) - Genomic locus that contribute to variation in expression level of mRNA transcribed from gene located in another locus (often on different chromosome).
+
+Trinucleotide repeats (18) - A phenomenon when a codon (three letter sequence of bases that is the chemical blueprint for building proteins from DNA) is repeated consecutively in a section of DNA. For example In HD, the repeated sequence is C-A-G. Also referred to as a triplet repeat or a codon repeat. When the cause of a disease can be traced to having too many copies of a certain nucleotide triplet in the DNA, the disease is said to be a trinucleotide repeat disorder. Today, there are 14 documented trinucleotide repeat disorders that affect human beings. Huntington’s Disease is part of this group.
+
+Tumor suppressor gene (4) - A gene that protects a cell from one step on the path to cancer. When this gene mutates to cause a loss or reduction in its function, the cell can progress to cancer, usually in combination with other genetic changes. The loss of these genes may be even more important than proto-oncogene/oncogene activation for the formation of many kinds of human cancer cells.
+
+Uniparental disomy (4) - Uniparental disomy (UPD) occurs when a person receives two copies of a chromosome, or of part of a chromosome, from one parent and no copy from the other parent. UPD can be the result of heterodisomy, in which a pair of non-identical chromosomes are inherited from one parent (an earlier stage meiosis I error) or isodisomy, in which a single chromosome from one parent is duplicated (a later stage meiosis II error).
+
+Week 1-4
+
+Ab initio gene prediction (4) - In computational biology, gene prediction or gene finding refers to the process of identifying the regions of genomic DNA that encode genes. This includes protein-coding genes as well as RNA genes, but may also include prediction of other functional elements such as regulatory regions. Gene finding is one of the first and most important steps in understanding the genome of a species once it has been sequenced.
+
+Adapter (4) - A short, chemically synthesized, single-stranded or double-stranded oligonucleotide that can be ligated to the ends of other DNA or RNA molecules.
+
+Additive genetic variance (9) - The part of the genetic variance of a quantitative trait attributed to the average effects of substituting one allele for another at a given locus or at the multiple loci governing a polygenic trait.
+
+Allele count (11) - The number of the specific allele in the studied cohort.
+
+Allele frequency (4) - The relative frequency of an allele (variant of a gene) at a particular locus in a population, expressed as a fraction or percentage.
+
+Alleles (10) - Forms of the same gene with small differences in their sequence of DNA bases. These small differences contribute to each person’s unique physical features.
+
+Alternative allele (11) - The opposite to reference allele, usually used in a sense of allele for which effect of association or frequency is calculated (effective allele).
+
+Alternative splicing or differential splicing (4) - A regulated process during gene expression that results in a single gene coding for multiple proteins. In this process, particular exons of a gene may be included within or excluded from the final, processed messenger RNA (mRNA) produced from that gene. Consequently, the proteins translated from alternatively spliced mRNAs will contain differences in their amino acid sequence and, often, in their biological functions.
+
+Amino-terminal end (or the C-terminus) (4) - The end of an amino acid chain (protein or polypeptide), terminated by a free carboxyl group (-COOH). When the protein is translated from messenger RNA, it is created from N-terminus to C-terminus. The convention for writing peptide sequences is to put the C-terminal end on the right and write the sequence from N- to C-terminus.
+
+Ancestral allele (11) - The evolutionary oldest allele of the specific polymorphism of the specific species.
+
+ANOVA (4) - Analysis of variance (ANOVA) is a collection of statistical models used to analyze the differences among group means and their associated procedures (such as "variation" within and between groups), developed by statistician and evolutionary biologist Ronald Fisher. In the ANOVA setting, the observed variance in a particular variable is partitioned into components attributable to different sources of variation. In its simplest form, ANOVA provides a statistical test of whether or not the means of several groups are equal, and therefore generalizes the t-test to more than two groups.
+
+Antibody (4) - A large, Y-shaped protein produced mainly by plasma cells that is used by the immune system to neutralize pathogens such as pathogenic bacteria and viruses. The antibody recognizes a unique molecule of the pathogen, called an antigen.
+
+Antigene (4) - In immunology, an antigen is a molecule capable of inducing an immune response (to produce an antibody) in the host organism. Sometimes antigens are part of the host itself in an autoimmune disease.
+
+ATAC-Seq (4) (Assay for Transposase-Accessible Chromatin using sequencing) - A technique used in molecular biology to study chromatin accessibility. The technique was first described in 2013, as an alternative or complementary method to MNase-seq (sequencing of micrococcal nuclease sensitive sites), FAIRE-seq and DNAse-seq. It aims to identify accessible DNA regions, equivalent to DNase I hypersensitive sites.
+
+Autosome (4) - A chromosome that is not a sex chromosome (allosome). The members of an autosome pair in a diploid cell have the same morphology unlike those in allosome pairs which may have different structure.
+
+Basal transcriptional machinery (4) - General transcription factors together with RNA polymerase, and the multiple-protein mediator complex. This machinery first binds to the promoter, then starts transcription.
+
+Base pair (4) - A unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix, and contribute to the folded structure of both DNA and RNA.
+
+Binary trait (11) - Trait that could take one of two values (for example, 1 and 0, black and white, healthy and disease. etc.).
+
+Biotin/streptavidin system (4) - Streptavidin is a 52.8 kDa protein purified from the bacterium Streptomyces avidinii. Streptavidin homo-tetramers have an extraordinarily high affinity for biotin (also known as vitamin B7 or vitamin H). The binding of biotin to streptavidin is one of the strongest non-covalent interactions known in nature. In molecular biology biotin together with streptavidin are used in the purification or detection of various biomolecules. The strong streptavidin-biotin bond can be used to attach various biomolecules to one another or onto a solid support. Harsh conditions are needed to break the streptavidin-biotin interaction, which often denatures the protein of interest being purified. However, it has been shown that a short incubation in water above 70°C will reversibly break the interaction (at least for biotinylated DNA) without denaturing streptavidin, allowing re-use of the streptavidin solid support.
+
+Bottleneck effect (4) - Sharp reduction in the size of a population, which reduces the variation in the gene pool of a population. As a result of the loss of genetic variation, after the bottleneck, the population may be distinctively different, both genotypically and phenotypically, from the original population from which it has derived. After bottleneck, genetic diversity remains lower, increasing only when gene flow with another population occurs or very slowly increasing with time as random mutations occur.
+
+CAGE (4) - Cap analysis gene expression (CAGE) is a technique used in molecular biology to produce a snapshot of the 5′ end of the messenger RNA population in a biological sample. The small fragments (usually 27 nucleotides long) from the very beginnings of mRNAs (5' ends of capped transcripts) are extracted, reverse-transcribed to DNA.
+
+Call rate (in relation to genotyping) (11) - The fraction of the individuals that were successfully genotyped for the specific genetic polymorphism in the studied cohort.
+
+cDNA (4) - Complementary DNA is DNA synthesized from a single stranded RNA (e.g., messenger RNA (mRNA) or microRNA) template in a reaction catalyzed by the enzyme reverse transcriptase. cDNA is often used to clone eukaryotic genes in prokaryotes.
+
+Cell (4) - The basic structural, functional, and biological unit of all known living organisms. A cell is the smallest unit of life that can replicate independently, and cells are often called the "building blocks of life". The study of cells is called cell biology. Cells consist of cytoplasm enclosed within a membrane, which contains many biomolecules such as proteins and nucleic acids.
+
+Centromere (3) - Each chromosome has a constriction point called the centromere, which divides the chromosome into two sections, or “arms.” The short arm of the chromosome is labeled the “p arm.” The long arm of the chromosome is labeled the “q arm.” The location of the centromere on each chromosome gives the chromosome its characteristic shape, and can be used to help describe the location of specific genes.
+
+ChIP-seq (4) - A method used to analyze protein interactions with DNA. ChIP-seq combines chromatin immunoprecipitation (ChIP) with massively parallel DNA sequencing to identify the binding sites of DNA-associated proteins. It can be used to map global binding sites precisely for any protein of interest. Previously, ChIP-on-chip was the most common technique utilized to study these protein–DNA relations.
+
+Chi-squared distribution (4) - The chi-squared distribution (also chi-square or χ2-distribution) with k degrees of freedom is the distribution of a sum of the squares of k independent standard normal random variables. The chi-square distribution is a special case of the gamma distribution and is one of the most widely used probability distributions in inferential statistics, e.g., in hypothesis testing or in construction of confidence intervals.
+
+Chromatid (6) - One of two identical halves of a replicated chromosome. During cell division, the chromosomes first replicate so that each daughter cell receives a complete set of chromosomes. Following DNA replication, the chromosome consists of two identical structures called sister chromatids, which are joined at the centromere.
+
+Chromatin (2) - Chromatin is a substance within a chromosome consisting of DNA and protein. The DNA carries the cell’s genetic instructions. The major proteins in chromatin are histones, which help package the DNA in a compact form that fits in the cell nucleus. Changes in chromatin structure are associated with DNA replication and gene expression.
+
+Chromosome (4) - A structure that contains DNA molecule with part or all of the genetic material (genome) of an organism. Each chromosome is made up of DNA tightly coiled many times around proteins called histones (or histone-like proteins) that support its structure.
+
+Cochran's Q test (4) - In the analysis of two-way randomized block designs where the response variable can take only two possible outcomes (coded as 0 and 1), Cochran's Q test is a non-parametric statistical test to verify whether k treatments have identical effects. It is named after William Gemmell Cochran. Cochran's Q test should not be confused with Cochran's C test, which is a variance outlier test. Put in simple technical terms, Cochran's Q test requires that there only be a binary response (e.g. success/failure or 1/0) and that there be more than 2 groups of the same size. The test assesses whether the proportion of successes is the same between groups. Often it is used to assess if different observers of the same phenomenon have consistent results (interobserver variability).
+
+Coding gene / region (4) - Also known as the coding sequence or CDS (from coding DNA sequence), is that portion of a gene's DNA or RNA, composed of exons, that codes for protein. The region is bounded nearer the 5' end by a start codon and nearer the 3' end with a stop codon. The coding region in mRNA is bounded by the five prime untranslated region (5'-UTR) and the three prime untranslated region (3'-UTR), which are also parts of the exons.The CDS is that portion of an mRNA transcript that is translated by a ribosome.
+
+Coefficient of correlation (4) - A measure of the linear dependence between two random variables. It has a value between +1 and −1, where 1 is positive linear relation, 0 is no linear relation, and −1 is negative linear relation.
+
+Coefficient of relationship (11) - Twice the coefficient of kinship.
+
+Comparative genomics (4) – A field of biological research in which the genomic features of different organisms are compared. The genomic features may include the DNA sequence, genes, gene order, regulatory sequences, and other genomic structural landmarks.
+
+Complex traits (13) - The traits that are controlled by multiple genetic and environmental factors.
+
+Conformation of protein (4) - The characteristic 3-dimensional shape of a protein, is the three-dimensional arrangement of atoms in a protein.
+
+Confounder (4) - A variable that influences both the dependent variable and independent variable causing a spurious association.
+
+Covariance (4) - A measure of the joint variability of two random variables. The sign of the covariance shows the tendency in the linear relationship between the variables. The magnitude of the covariance is not easy to interpret because it is not normalized and hence depends on the magnitudes of the variables. The normalized version of the covariance, the correlation coefficient, however, shows by its magnitude the strength of the linear relation.
+
+Covariate (4) - A variable that is possibly predictive of the outcome under study. A covariate may be of direct interest or it may be a confounding or interacting variable.
+
+Crossing Over (6) - The swapping of genetic material that occurs in the germ line. During the formation of egg and sperm cells, also known as meiosis, paired chromosomes from each parent align so that similar DNA sequences from the paired chromosomes cross over one another. Crossing over results in a shuffling of genetic material and is an important cause of the genetic variation seen among offspring.
+
+Crosslink (4) - A bond that links one polymer chain to another. They can be covalent bonds or ionic bonds. "Polymer chains" can refer to synthetic polymers or natural polymers (such as proteins).
+
+Darwinian evolution (4) - A theory of biological evolution developed by the English naturalist Charles Darwin (1809–1882) and others, stating that all species of organisms arise and develop through the natural selection of small, inherited variations that increase the individual's ability to compete, survive, and reproduce.
+
+dbSNP (4) - The Single Nucleotide Polymorphism Database (dbSNP) is a free public database of genetic variation within and across different species developed and hosted by the National Center for Biotechnology Information (NCBI) in collaboration with the National Human Genome Research Institute (NHGRI). Although the name of the database implies a collection of one class of polymorphisms only (i.e., single nucleotide polymorphisms — SNPs), it in fact contains a range of molecular variation.
+
+De novo mutation (5) - A genetic alteration that is present for the first time in one family member as a result of a variant (or mutation) in a germ cell (egg or sperm) of one of the parents, or a variant that arises in the fertilized egg itself during early embryogenesis. Also called de novo variant, new mutation, and new variant.
+
+Dichotomous trait - see “Binary trait” in the Glossary Week 4.
+
+DNA (4) – A molecule that carries the genetic instructions used in the growth, development, functioning and reproduction of all known living organisms and many viruses. DNA and ribonucleic acid (RNA) are nucleic acids; alongside proteins, lipids and complex carbohydrates (polysaccharides), they are one of the four major types of macromolecules that are essential for all known forms of life. Most DNA molecules consist of two biopolymer strands coiled around each other to form a double helix.
+
+DNA libraries (4) - In molecular biology, a library is a collection of DNA fragments that is stored and propagated in a population of microorganisms through the process of molecular cloning. There are different types of DNA libraries, including cDNA libraries (formed from reverse-transcribed RNA), genomic libraries (formed from genomic DNA) and randomized mutant libraries (formed by de novo gene synthesis where alternative nucleotides or codons are incorporated). DNA library technology is a mainstay of current molecular biology, and the application of these libraries depends on the source of the original DNA fragments.
+
+DNA methylation (4) - A process by which methyl groups are added to the DNA molecule. Methylation can change the activity of a DNA segment without changing the sequence. When located in a gene promoter, DNA methylation typically acts to repress gene transcription. DNA methylation is essential for normal development and is associated with a number of key processes including genomic imprinting, X-chromosome inactivation, repression of transposable elements, aging and carcinogenesis.
+
+DNA nanoball sequencing (4) - A high throughput sequencing technology that is used to determine the entire genomic sequence of an organism. The method uses rolling circle replication to amplify small fragments of genomic DNA into DNA nanoballs. Fluorescent probes bind to complementary DNA and the probes are then ligated to anchor sequences bound to known sequences on the DNA template. The base order is determined via the fluorescence of the ligated and bound probes.
+
+DNase-Seq (4) (DNase I hypersensitive sites sequencing) - A method in molecular biology used to identify the location of regulatory regions, based on the genome-wide sequencing of regions sensitive to cleavage by DNase I.
+
+Effective population size (4) - The number of individuals that an idealised population would need to have, in order for some specified quantity of interest to be the same in the idealised population as in the real population. Idealised populations are based on unrealistic but convenient simplifications such as random mating, simultaneous birth of each new generation, constant population size, equal numbers of children per parent, etc.
+
+Endonucleases (4) - A restriction enzyme or restriction endonuclease is an enzyme that cleaves DNA into fragments at or near specific recognition sites within the molecule known as restriction sites.
+
+Enhancer (4) - A short (50–1500 bp) region of DNA that can be bound by proteins (activators) to increase the likelihood that transcription of a particular gene will occur.
+
+Enzymes (4) - Macromolecular biological catalysts. Enzymes accelerate chemical reactions. Like all catalysts, enzymes increase the reaction rate by lowering its activation energy. Some enzymes can make their conversion of substrate to product occur many millions of times faster.
+
+Epigenetic inheritance (4) - The transmission of information from one generation of an organism to the next (i.e., parent–child transmission) that affects the traits of offspring without alteration of the primary structure of DNA.
+
+Epigenetics (Epigenomics) (2) - Study of the complete set of epigenetic modifications on the genetic material of a cell, known as the epigenome. Epigenetic modifications are reversible modifications on a cell’s DNA or histones that affect gene expression without altering the DNA sequence.
+
+Exaptation (4) - A shift in the function of a trait during evolution. For example, a trait can evolve because it served one particular function, but subsequently it may come to serve another. Exaptations are common in both anatomy and behaviour. Bird feathers are a classic example: initially they may have evolved for temperature regulation, but later were adapted for flight.
+
+Exome sequencing (4) - A transcriptomics technique for sequencing all of the protein-coding genes in a genome (known as the exome). It consists of two steps: the first step is to select only the subset of DNA that encodes proteins. The second step is to sequence the selected, exonic DNA using any high-throughput DNA sequencing technology.
+
+Exon (4) - Any part of a gene that will encode a part of the final mature RNA produced by that gene after introns have been removed by RNA splicing.
+
+Fitness (4) - The quantitative representation of selection within evolutionary biology. It can be defined either with respect to a genotype or to a phenotype in a given environment. In either case, it describes individual reproductive success and is equal to the average contribution to the gene pool of the next generation that is made by individuals of the specified genotype or phenotype.
+
+Footprinting (4) - A method of investigating the sequence specificity of DNA-binding proteins in vitro. This technique can be used to study protein-DNA interactions both outside and within cells.
+
+Forest plot (4) (also known as a blobbogram) - A graphical display of results from several studies addressing the same question, along with the overall results. It was developed for use in medical research as a means of graphically representing a meta-analysis of the results of randomized controlled trials. In the last twenty years, similar meta-analytical techniques have been applied in observational studies (e.g. environmental epidemiology) and forest plots are often used in presenting the results of such studies also.
+
+Founder effect (4) - In population genetics, the founder effect is the loss of genetic variation that occurs when a new population is established by a very small number of individuals from a larger population. As a result of the loss of genetic variation, the new population may be distinctively different, both genotypically and phenotypically, from the parent population from which it is derived. After founding, genetic diversity remains lower than in the parental population, increasing only when gene flow with another population occurs or very slowly increasing with time as random mutations occur.
+
+Gain-of-function variants (4) - Also called activating mutations, change the gene product such that its effect gets stronger (enhanced activation) or even is superseded by a different and abnormal function.
+
+Gamete (4) - A haploid cell that fuses with another haploid cell during fertilization (conception) in organisms that sexually reproduce.
+
+GCTA tool (16) - GCTA (Genome-wide Complex Trait Analysis) software was originally designed to estimate the proportion of phenotypic variance explained by all genome-wide SNPs for complex traits (the GREML method), and has subsequently extended for many other analyses to better understand the genetic architecture of complex traits.
+
+Gel electrophoresis (4) - A method for separation and analysis of macromolecules (DNA, RNA and proteins) and their fragments, based on their size and charge. It is used in in biochemistry and molecular biology to separate a mixed population of DNA and RNA fragments according to molecular size.
+
+Gene (5) - The basic unit of heredity that occupies a specific location on a chromosome. Most genes code for a specific protein or segment of protein leading to a particular characteristic or function.
+
+Gene annotation (7) - The process of finding and designating locations of individual genes and other features on raw DNA sequences, called assemblies. Annotation gives meaning to a given sequence and makes it much easier for researchers to view and analyze its contents. To visualize what annotation adds to our understanding of the sequence, you can compare the raw sequence (in FASTA format) with the GenBank or Graphics formats, both of which contains annotations. In both instances note the placement of individual genes and other features on the sequence.
+
+Gene expression (4) - The process by which information from a gene is used in the synthesis of a functional gene product. These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
+
+Gene flow (4) (also known as gene migration) - The transfer of genetic variation from one population to another.
+
+Gene switches (3) - Group of two types of molecules: - 1. short stretches of DNA of defined sequence located relatively near the site where transcription begins; 2. gene regulatory proteins that recognize those stretches of DNA and bind to them. Binding switches the neighboring gene on or off.
+
+General transcription factors (4) - A group of factors that bind to specific sites (promoter) on DNA to activate transcription of genetic information from DNA to messenger RNA. They are also intimately involved in the process of gene regulation.
+
+Genetic distance (4 and 11) - A measure of the genetic divergence between species, between populations within a species, or between individuals within populations.
+
+Genetic drift (6) - Random fluctuations in the frequencies of alleles from generation to generation due to chance events. Genetic drift reduces genetic diversity. The effects of genetic drift are most pronounced in small populations.
+
+Genetic linkage (4) - The tendency of DNA sequences that are close together on a chromosome to be inherited together during the meiosis phase of sexual reproduction. Two genetic markers that are physically near to each other are unlikely to be separated onto different chromatids during meiosis, and are therefore said to be more linked than markers that are far apart. In other words, the nearer two genes are on a chromosome, the lower the chance of recombination between them, and the more likely they are to be inherited together. Markers on different chromosomes are perfectly unlinked.
+
+Genetic marker (5) - An identifiable segment of DNA (e.g., Single Nucleotide Polymorphism (SNP), Restriction Fragment Length Polymorphism (RFLP), Variable Number of Tandem Repeats (VNTR), microsatellite) with enough variation between individuals that its inheritance and co-inheritance with alleles of a given gene can be traced; used in linkage analysis.
+
+Genetics code (6) - The term we use for the way that the four bases of DNA - the A, C, G, and Ts - are strung together in a way that the cellular machinery, the ribosome, can read them and turn them into a protein. In the genetic code, each three nucleotides in a row count as a triplet and code for a single amino acid. So each sequence of three codes for an amino acid. And proteins are made up of sometimes hundreds of amino acids. So the code that would make one protein could have hundreds, sometimes even thousands, of triplets contained in it.
+
+Genome (2) - All the genetic material in the chromosomes of a particular organism; its size is generally given as its total number of base pairs.
+
+Genome-wide significance threshold (11) - Threshold p-value that corresponds to genome-wide significance (experiment-wise type 1 error of ~5%). In a case of GWAS of single trait in European population, the threshold p-value is 5E-8. The corresponding line on the Manhattan plot is distinguishing significant from non-significant associations.
+
+Genomic control (11) - Method to detect potential population stratification and cryptic relatedness, and to correct GWAS summary statistics with aim to eliminate the residual inflation and to control the type 1 error at nominal level.
+
+Genomic position - See “locus” in the glossary Week 2.
+
+Genomic relatedness matrix - matrix of coefficients of relationship estimated by using genomic (genetic marker) data.
+
+Genotype (4) - The part (DNA sequence) of the genetic makeup of a cell, and therefore of an organism or individual, which determines a specific characteristic (phenotype) of that cell/organism/individual. Genotype is one of three factors that determine phenotype, the other two being inherited epigenetic factors, and non-inherited environmental factors.
+
+Genotyping (4) - The process of determining differences in the genetic make-up (genotype) of an individual by examining the individual's DNA sequence using biological assays and comparing it to another individual's sequence or a reference sequence. It reveals the alleles an individual has inherited from their parents. Traditionally genotyping is the use of DNA sequences to define biological populations by use of molecular tools. It does not usually involve defining the genes of an individual.
+
+Germ line cells (4) - In biology and genetics, the germline in a multicellular organism is the population of its bodily cells that are so differentiated or segregated that in the usual processes of reproduction they may pass on their genetic material to the progeny.
+
+GWAS, Genome Wide Association Study (Studies) (4) - An observational study of a genome-wide set of genetic variants in different individuals to see if any variant is associated with a trait.
+
+Haplotype (2) - A way of denoting the collective genotype of a number of closely linked loci on a chromosome.
+
+Haplotype estimation or phasing (4) - Refers to the process of statistical estimation of haplotypes from genotype data. The most common situation arises when genotypes are collected at a set of polymorphic sites from a group of individuals. For example in human genetics, genome-wide association studies collect genotypes in thousands of individuals at between 200,000–5,000,000 SNPs using microarrays. Haplotype estimation methods are used in the analysis of these datasets and allow genotype imputation of alleles from reference databases such as the HapMap Project and the 1000 Genomes Project.
+
+HapMap project (4) - The International HapMap Project aimed to develop a haplotype map (HapMap) of the human genome, to describe the common patterns of human genetic variation. The information produced by the project is made freely available for research.
+
+Heritability (4) - The fraction of phenotype variability that can be attributed to genetic variation in specific population.
+
+Heterozygosity (11) - The proportion of heterozygotes in population.
+
+Heterozygote (4) - A diploid organism is heterozygous at a gene locus when its cells contain two different alleles of a gene.
+
+Hi-C (4) - One of techniques (often abbreviated to 3C technologies or 3C-based methods) that are a set of molecular biology methods used to analyze the spatial organization of chromatin in a cell. These methods quantify the number of interactions between genomic loci that are nearby in 3-D space, but may be separated by many nucleotides in the linear genome.
+
+Histone (2) - Protein that provides structural support to a chromosome. For very long DNA molecules to fit into the cell nucleus, they wrap around complexes of histone proteins, giving the chromosome a more compact shape. Some histone variants are associated with the regulation of gene expression.
+
+Histone code (4) - A hypothesis that the transcription of genetic information encoded in DNA is in part regulated by chemical modifications to histone proteins, primarily on their unstructured ends. Together with similar modifications such as DNA methylation it is part of the epigenetic code.
+
+HMM (4) - Hidden Markov Model (HMM) is a statistical Markov model in which the system being modeled is assumed to be a Markov process with unobserved (i.e. hidden) states. In simpler Markov models (like a Markov chain), the state is directly visible to the observer, and therefore the state transition probabilities are the only parameters, while in the hidden Markov model, the state is not directly visible, but the output, dependent on the state, is visible. Each state has a probability distribution over the possible output tokens. Therefore, the sequence of tokens generated by an HMM gives some information about the sequence of states.
+
+Homozygote (4) - A diploid organism is homozygous at a gene locus when its cells contain the same alleles of a gene.
+
+Hybridization (4) - A phenomenon in which single-stranded deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) molecules anneal to complementary DNA or RNA. Though a double-stranded DNA sequence is generally stable under physiological conditions, changing these conditions in the laboratory (generally by raising the surrounding temperature) will cause the molecules to separate into single strands. These strands are complementary to each other but may also be complementary to other sequences present in their surroundings. Lowering the surrounding temperature allows the single-stranded molecules to anneal or “hybridize” to each other.
+
+I2 statistic (14) - The classical measure of heterogeneity is Cochran’s Q test, which is calculated as the weighted sum of squared differences between individual study effects and the pooled effect across studies, with the weights being those used in the pooling method. The I² statistic describes the percentage of variation across studies that is due to heterogeneity rather than chance (Higgins and Thompson, 2002; Higgins et al., 2003). I² = 100% × (Q - (N - 1))/Q, where N is the number of samples. The I² metric is an intuitive and simple expression of the inconsistency of studies’ results. Unlike Q it does not inherently depend upon the number of studies considered.
+
+Identical-by-descent (20) (or IBD) - A term used in genetic genealogy to describe a matching segment of DNA shared by two or more people that has been inherited from a common ancestor without any intervening recombination.
+
+Immunoprecipitation (4) - The technique of precipitating a protein antigen out of solution using an antibody that specifically binds to that particular protein. This process can be used to isolate and concentrate a particular protein from a sample containing many thousands of different proteins.
+
+Imputation (4) - The process of replacing missing data with estimated values. Imputation in genetics refers to the statistical inference of unobserved genotypes. It is achieved by using known haplotypes in a population, for instance from the HapMap or the 1000 Genomes Project in humans, thereby allowing to test initially-untyped genetic variants for association with a trait of interest.
+
+Inbred lines (4) (also called Inbred strains, or rarely for animals linear animals) - Individuals of a particular species which are nearly identical to each other in genotype due to long inbreeding. Inbred strains of animals are frequently used in laboratories for experiments where for reproducibility of conclusions all the test animals should be as similar as possible.
+
+Info metric (11) - The measure of imputation quality. It is constrained between 0 to 1 (the higher the better). Also known as R2.
+
+Insulator (4) - A genetic boundary element that blocks the interaction between enhancers and promoters.
+
+Intron (6) - An intron is a portion of a gene that does not code for amino acids. In the cells of plants and animals, most gene sequences are broken up by one or more introns. The parts of the gene sequence that are expressed in the protein are called exons, because they are expressed, while the parts of the gene sequence that are not expressed in the protein are called introns, because they come in between the exons.
+
+Inverse variance weighting (4) - In statistics, inverse-variance weighting is a method of aggregating two or more random variables to minimize the variance of the weighted average. Each random variable is weighted in inverse proportion to its variance.
+
+Karyotype (4) - The number and appearance of chromosomes in the nucleus of an eukaryotic cell. The term is also used for the complete set of chromosomes in a species or in an individual organism and for a test that detects this complement or measures the number.
+
+Ligase (4) - An enzyme that can catalyze the joining of two large molecules by forming a new chemical bond, usually with accompanying hydrolysis of a small pendant chemical group on one of the larger molecules or the enzyme catalyzing the linking together of two compounds, e.g., enzymes that catalyze joining of C-O, C-S, C-N, etc.
+
+Likelihood (4) - A likelihood function (often simply the likelihood) is a function of the parameters of a statistical model given data. Likelihood functions play a key role in statistical inference, especially methods of estimating a parameter from a set of statistics. In informal contexts, "likelihood" is often used as a synonym for "probability."
+
+Linear regression (4) - An approach for modeling the linear relationship between a dependent variable and one or more explanatory variables (or independent variables). The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
+
+Linkage analysis (12) - Study aimed at establishing linkage between genes. Today linkage analysis serves as a way of gene-hunting and genetic testing.
+
+Linkage disequilibrium (LD) (4) - The non-random association of alleles at different loci in a given population. Loci are said to be in linkage disequilibrium when the frequency of association of their different alleles is higher or lower than what would be expected if the loci were independent and associated randomly.
+
+Linkage maps (4) (also known as a genetic map) - A table for a species or experimental population that shows the position of its known genes or genetic markers relative to each other in terms of recombination frequency, rather than a specific physical distance along each chromosome.
+
+Locus (11) - A genomic region containing a gene or a functional sequence on physical or linkage map.
+
+LOD score (4) - A statistical test often used for linkage analysis in human, animal, and plant populations. The LOD score compares the likelihood of obtaining the data if the two loci are indeed linked, to the likelihood of observing the same data purely by chance. Positive LOD scores favour the presence of linkage, whereas negative LOD scores indicate that linkage is less likely. Computerised LOD score analysis is a way to analyse complex pedigrees in order to determine the linkage between Mendelian traits (or between a trait and a marker, or markers).
+
+Logistic regression (11) - In genetic epidemiology, most of the times, logistic regression is considered in the context of binary outcome (say, “case” and “control”). In this case the logistic function is used to map the linear predictor into the space between 0 and 1, and is interpreted as the probability of being “case” given specific set of predictors.
+
+Loss-of-function variants (4) (also called inactivating mutations) - Result in the gene product having less or no function (being partially or wholly inactivated).
+
+Manhattan plot (4) - In GWAS Manhattan plots, genomic coordinates are displayed along the horizontal axis, with the negative logarithm of the association p-value for each single nucleotide polymorphism (SNP) displayed on the vertical axis, meaning that each dot on the Manhattan plot signifies a SNP. Because the strongest associations have the smallest p-values (e.g., 10E−15), their negative logarithms will be the greatest (15 in this example).
+
+Meiosis (4) - A specialized type of cell division that reduces the chromosome number by half, creating four haploid cells, each genetically distinct from the parent cell that gave rise to them.
+
+Meta-analysis (4) - A statistical analysis that combines the results of multiple scientific studies.
+
+Microsatellite (6) - Microsatellite sequences are repetitive DNA sequences usually several base pairs in length. Microsatellite sequences are composed of non-coding DNA and are not parts of genes. They are used as genetic markers to follow the inheritance of genes in families.
+
+Minor allele frequency (11) - A measure of the relative frequency of a least frequent allele at a particular locus in a given population. Usually it is expressed as a fraction or percentage.
+
+Mixed model (4 and 11) - A statistical model containing both fixed effects and random effects. These models are useful in a wide variety of disciplines in the physical, biological and social sciences. They are particularly useful in settings where measurements are correlated (e.g. studies of relatives or repeated measurements in longitudinal studies).
+
+Monomorphic SNP (11) - A site in which all the individuals from the population of interest have the same allele.
+
+Multidimensional scaling (MDS) (4) - Refers to a set of related ordination techniques used in information visualization, in particular to display the information contained in a distance matrix. It is a form of non-linear dimensionality reduction. An MDS algorithm aims to place each object in N-dimensional space such that the between-object distances are preserved as well as possible. Each object is then assigned coordinates in each of the N dimensions. The number of dimensions of an MDS plot N can exceed 2. Choosing N = 2 optimizes the object locations for a two-dimensional scatterplot.
+
+Mutation rate (4) - The frequency of new mutations in a single gene or organism over a various amount of time.
+
+NGS (next generation sequencing) (4) - Modern high-throughput sequencing methods. It applies to genome sequencing, genome resequencing, transcriptome profiling (RNA-Seq), DNA-protein interactions (ChIP-sequencing), and epigenome characterization and has a huge variety of different methods and techniques.
+
+Noncentrality parameters (4) - In general, these are parameters of families of probability distributions that are related to other "central" families of distributions. Whereas the central distribution describes how a test statistic is distributed when the difference tested is null, noncentral distributions describe the distribution of a test statistic when the null is false (alternative hypothesis). This leads to their use in statistics, especially calculating statistical power. In this course we use it in terms of statistical power of GWAS studies - how far the expected distribution of statistics under the alternative hypothesis will be shifted towards to the expected distribution under the null hypothesis (e.g. Chi-square distribution with 1df).
+
+Non-coding DNA (4) - Components of an organism's DNA that do not encode protein sequences. Some noncoding DNA is transcribed into functional non-coding RNA molecules (e.g. transfer RNA, ribosomal RNA, and regulatory RNAs). Other functions of noncoding DNA include the transcriptional and translational regulation of protein-coding sequences, scaffold attachment regions, origins of DNA replication, centromeres and telomeres.
+
+Normal distribution (4 and 11) - The normal (or Gaussian) distribution, sometimes informally called the bell curve, is a largely used continuous probability distribution. Normal distribution is important in statistics and is often used in the natural and social sciences to represent real-valued random variables. This use is justified by the central limit theorem, which states that a sum of a large number of random variables is normally distributed.
+
+Nucleosome (2) - A nucleosome is the basic repeating unit of eukaryotic chromatin. In a human cell, about six feet of DNA must be packaged into a nucleus with a diameter less than a human hair. A single nucleosome consists of about 150 base pairs of DNA sequence wrapped around a core of histone proteins. The nucleosomes are arranged like beads on a string. They are repeatedly folded in on themselves to form a chromosome.
+
+Odds ratio (4) - In epidemiology, the odds ratio (OR) is used to measure association between two binary variables. Considering two properties, A and B, if the OR is greater than 1, then having "A" is considered to be "associated" with having "B" in the sense that the having of "B" raises (relative to not-having "B") the odds of having "A".
+
+Oligonucleotide (4) - Short DNA or RNA molecules, oligomers, that have a wide range of applications in genetic testing, research, and forensics.
+
+Oocyte (4) - A female gametocyte or germ cell involved in reproduction. In other words, it is an immature ovum, or egg cell.
+
+Panmixia (4) - Means random mating. A panmictic population is one where all individuals are potential partners. This assumes that there are no mating restrictions, neither genetic nor behavioural, upon the population.
+
+Pathway analysis (4) - In bioinformatics research, pathway analysis is used to identify related proteins within a pathway or building pathway de novo from the proteins of interest. Pathway analysis helps to understand or interpret omics data from the point of view of canonical prior knowledge structured in the form of pathways diagrams. It allows finding distinct cell processes (cellular processes), diseases or signaling pathways that are statistically associated with selection of differentially expressed genes between two samples. Often but erroneously pathway analysis is used as synonym for network analysis (functional enrichment analysis and gene set analysis).
+
+PCR (4) - Polymerase chain reaction (PCR) is a technique used in molecular biology to amplify a single copy or a few copies of a segment of DNA across several orders of magnitude, generating thousands to millions of copies of a particular DNA sequence.
+
+Penetrance (of a genotype) (11) - Proportion of individuals of certain genotype, that express the phenotype. In case of dominant mutation, complete penetrance means that every person who has the mutation will show signs and symptoms of the disease. Incomplete penetrance means that not every carrier will develop the disease. For example, some people who have a BRCA1 or BRCA2 gene mutation will develop cancer during their lifetime, but others will not.
+
+Pervasive transcription (8) - "Pervasive transcription" refers to the idea that a large percentage of the DNA in mammalian genomes is transcribed. The idea became popular with the publication of the ENCODE results back in 2007 (Birney et al. 2007). Their results indicated that at least 93% of the human genome was transcribed at one time or another or in one tissue or another.
+
+Phenocopy (5 and 11) - A phenotype (e.g. disease) that resembles the phenotype expressed by a particular genotype, but in an individual who is not a having that genotype. For example, breast cancer in a hereditary breast/ovarian cancer syndrome family member who does not carry the family’s BRCA1 or BRCA2 mutation would be considered a phenocopy. Such an individual does not have the family’s cancer-related mutation and therefore, they do not have the associated cancer risk from that specific mutation.
+
+Phenotype (1) - The observable physical and/or biochemical characteristics of the expression of a gene; the clinical presentation of an individual with a particular genotype.
+
+Phylogeny (4) - The study of the evolutionary history and relationships among individuals or groups of organisms (e.g. species, or populations). These relationships are discovered through phylogenetic inference methods that evaluate observed heritable traits, such as DNA sequences or morphology under a model of evolution of these traits. The result of these analyses is a phylogeny (also known as a phylogenetic tree) – a diagrammatic hypothesis about the history of the evolutionary relationships of a group of organisms.
+
+Polygenic disease (4 and 11) - A disease, susceptibility to which is influenced by multiple genes, mostly in combination with lifestyles and environmental factors. Common disease, such as coronary heart disease, type 2 diabetes, breast cancer are polygenic diseases. Although polygenic disorders often cluster in families, they do not have a clear-cut pattern of inheritance. This makes it difficult to determine a person’s risk of inheriting or passing on these disorders.
+
+Population stratification (4) (or population structure) - The presence of a systematic difference in allele frequencies between subpopulations in a population, possibly due to different ancestry, especially in the context of association studies.
+
+Post-transcriptional modification (4) - The process in eukaryotic cells where primary transcript RNA is converted into mature RNA. A notable example is the conversion of precursor messenger RNA into mature messenger RNA (mRNA) that occurs prior to protein translation. The process includes three major steps: addition of a 5' cap, addition of a 3' poly-adenylation tail, and splicing. This process is vital for the correct translation of the genomes of eukaryotes because the initial precursor mRNA produced during transcription contains both exons (coding or important sequences involved in translation), and introns (non-coding sequences).
+
+Primer (4) - A short strand of RNA or DNA (generally about 18-22 bases) that serves as a starting point for DNA synthesis. It is required for DNA replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA. The polymerase starts replication at the 3'-end of the primer, and copies the opposite strand.
+
+Principal component analysis (PCA) (4) - A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components (or sometimes, principal modes of variation). The number of principal components is less than or equal to the smaller of the number of original variables or the number of observations. This transformation is defined in such a way that the first principal component has the largest possible variance (that is, accounts for as much of the variability in the data as possible), and each succeeding component in turn has the highest variance possible under the constraint that it is orthogonal to the preceding components. The resulting vectors are an uncorrelated orthogonal basis set. PCA is sensitive to the relative scaling of the original variables.
+
+Proband (5) - The individual through whom a family with a genetic disorder is ascertained.
+
+Promoter (4) - A region of DNA that initiates transcription of a particular gene. Promoters are located near the transcription start sites of genes, on the same strand and upstream on the DNA (towards the 5' region of the sense strand). Promoters can be about 100–1000 base pairs long.
+
+Proteins (4) – Large biomolecules, or macromolecules, consisting of one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, and transporting molecules from one location to another. Proteins differ from one another primarily in their sequence of amino acids, which is dictated by the nucleotide sequence of their genes, and which usually results in protein folding into a specific three-dimensional structure that determines its activity.
+
+Proximal promoter (4) - The proximal sequence upstream of the gene that tends to contain primary regulatory elements.
+
+Pseudogenes (4) - Segments of DNA that are related to real genes. Pseudogenes have lost at least some functionality, relative to the complete gene, in cellular gene expression or protein-coding ability.
+
+Publication bias (4) - Publication bias is a type of bias that occurs in published academic research. It occurs when the outcome of an experiment or research study influences the decision whether to publish or otherwise distribute it. Publication bias matters because literature reviews regarding support for a hypothesis can be biased if the original literature is contaminated by publication bias. Publishing only results that show a significant finding disturbs the balance of findings. Studies with significant results can be of the same standard as studies with a null result with respect to quality of execution and design. However, statistically significant results are three times more likely to be published than papers with null results.
+
+P-value (11) (or the probability value) - The probability of obtaining an statistic (for example, effect estimate), as extreme as the one observed in the data, assuming that the null hypothesis is true.
+
+QC (11) - abbreviation for “Quality Control”.
+
+QQ plot (4) - Quantile-quantile plot, a probability plot, which is a graphical method for comparing two probability distributions by plotting their quantiles against each other. First, the set of intervals for the quantiles is chosen. A point (x, y) on the plot corresponds to one of the quantiles of the second distribution (y-coordinate) plotted against the same quantile of the first distribution (x-coordinate). Thus the line is a parametric curve with the parameter which is the number of the interval for the quantile.
+
+Radiolabeled probe (11) - Hybridization probe that is radioactively labeled.
+
+Reads (4) - In next-generation sequencing and shotgun sequencing are small segments of DNA, which are sequenced and further aligned to obtain long chain sequenced DNA fragment.
+
+Receptor (4) - A protein molecule that receives chemical signals from outside a cell. When such chemical signals bind to a receptor, they cause some form of cellular/tissue response, e.g. a change in the electrical activity of a cell. In this sense, a receptor is a protein-molecule that recognizes and responds to endogenous chemical signals, e.g. an acetylcholine receptor recognizes and responds to its endogenous ligand, acetylcholine. However, sometimes in pharmacology, the term is also used to include other proteins that are drug targets, such as enzymes, transporters and ion channels.
+
+Reciprocal translocation (4) - Type of chromosome abnormality, an exchange of material between nonhomologous chromosomes.
+
+Recombination (6) (homologous recombination) - A type of genetic recombination that occurs during meiosis (the formation of egg and sperm cells). Paired chromosomes from the male and female parent align so that similar DNA sequences from the paired chromosomes cross over each other. Crossing over results in a shuffling of genetic material and is an important cause of the genetic variation seen among offspring.
+
+Recombination hotspots (4) - Regions in a genome that exhibit elevated rates of recombination relative to the average. The recombination rate within hotspots can be hundreds of times that of the surrounding region.
+
+Reference cohort (11) - A cohort which is used as a reference for calculation of specific population parameters, e.g. LD or allele frequencies.
+
+Reference genome (4) - A digital nucleic acid sequence database, assembled by scientists as a representative example of a species' set of genes.
+
+Reference genome (4) (also known as a reference assembly or Genome build) - A digital nucleic acid sequence, assembled by scientists as a representative example of a species' genome. As they are often assembled from the sequencing of DNA from a number of donors, reference genomes do not accurately represent the set of genes of any single person. Instead a reference provides a haploid mosaic of different DNA sequences from each donor. For example, GRCh37, the Genome Reference Consortium human genome (build 37) is derived from thirteen anonymous volunteers from Buffalo, New York.).
+
+Regression analysis (4) - A set of statistical processes for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or 'predictors'). More specifically, regression analysis helps one understand how the typical value of the dependent variable (or 'criterion variable') changes when any one of the independent variables is varied, while the other independent variables are held fixed.
+
+Regulatory elements (4) - A segment of DNA which is capable of increasing or decreasing the expression of specific genes within an organism.
+
+Residuals (regression) (4) - A residual (or fitting deviation) is an observable estimate of the unobservable statistical error in regression analysis.
+
+Restriction (4) - A restriction enzyme or restriction endonuclease is an enzyme that cleaves DNA into fragments at or near specific recognition sites within the molecule known as restriction sites.
+
+Restriction fragment length polymorphism (RLFP) (6) - A type of polymorphism that results from variation in the DNA sequence recognized by restriction enzymes. These are bacterial enzymes used by scientists to cut DNA molecules at known locations. RFLPs (pronounced "rif lips") are used as markers on genetic maps. Typically, gel electrophoresis is used to visualize RFLPs.
+
+Restriction site (4) (or restriction recognition sites) - Locations on a DNA molecule containing specific (4-8 base pairs in length) sequences of nucleotides, which are recognized by restriction enzymes.
+
+Retroviruses (4) – A single-stranded positive-sense RNA virus with a DNA intermediate and, as an obligate parasite, targets a host cell. Once inside the host cell cytoplasm, the virus uses its own reverse transcriptase enzyme to produce DNA from its RNA genome, the reverse of the usual pattern, thus retro (backwards).
+
+Ribozyme (4) - RNA molecules that are capable of catalyzing specific biochemical reactions, similar to the action of protein enzymes.
+
+RNA (4) - Ribonucleic acid (RNA) is a polymeric molecule essential in various biological roles in coding, decoding, regulation, and expression of genes. RNA and DNA are nucleic acids, and, along with lipids, proteins and carbohydrates, constitute the four major macromolecules essential for all known forms of life. Like DNA, RNA is assembled as a chain of nucleotides, but unlike DNA it is more often found in nature as a single-strand folded onto itself, rather than a paired double-strand. Cellular organisms use messenger RNA (mRNA) to convey genetic information (using the letters G, U, A, and C to denote the nitrogenous bases guanine, uracil, adenine, and cytosine) that directs synthesis of specific proteins. Many viruses encode their genetic information using an RNA genome.
+
+SAGE (4) - Serial analysis of gene expression is a transcriptomic technique used by molecular biologists to produce a snapshot of the messenger RNA (mRNA) population in a sample of interest in the form of small tags that correspond to fragments of those transcripts. The output of SAGE is a list of short sequence tags and the number of times it is observed. Using sequence databases a researcher can usually determine, with some confidence, from which original mRNA (and therefore which gene) the tag was extracted.
+
+Sanger sequencing (4) - A method of DNA sequencing, based on the selective incorporation of chain-terminating dideoxynucleotides by DNA polymerase during in vitro DNA replication. Developed by Frederick Sanger and colleagues in 1977, it was the most widely used sequencing method for approximately 40 years. More recently, higher volume Sanger sequencing has been supplanted by the next generation sequencing methods, especially for large-scale, automated genome analyses. However, the Sanger method remains in wide use, for smaller-scale projects, validation of next generation sequencing results and for obtaining especially long contiguous DNA sequence reads (> 500 nucleotides).
+
+Segmental duplications (4) - Segments of DNA with near-identical sequence. Segmental duplications, also known as low copy repeats (LCRs), are believed to have played a role in creating new primate genes as reflected in human genetic variation. In humans, chromosomes Y and 22 have the greatest proportion of SDs: 50.4% and 11.9% respectively.
+
+Segregation (4) - Observation in Mendelian inheritance that each parent passes only one allele to its offspring.
+
+Selfish DNA (4) - Genetic sequences that spread by forming additional copies of itself within the genome; and makes no specific contribution to the reproductive success of its host organism (it might or might not have significant deleterious effects).
+
+Silencer (4) - A DNA sequence capable of binding transcription regulation factors, called repressors.
+
+SNP arrays (4) - A type of DNA microarray which is used to genotype polymorphisms within a population. The basic principles of SNP array are the same as the DNA microarray. These are the convergence of DNA hybridization, fluorescence microscopy, and solid surface DNA capture.
+
+SNP, single-nucleotide polymorphism (4) - A variation in a single nucleotide that occurs at a specific position in the genome.
+
+Somatic cells (4) - Any biological cell forming the body of an organism; that is, in a multicellular organism, any cell other than a gamete, germ cell, gametocyte or undifferentiated stem cell.
+
+Southern blotting (4) - A method used in molecular biology for detection of a specific DNA sequence in DNA samples. Southern blotting combines transfer of electrophoresis-separated DNA fragments to a filter membrane and subsequent fragment detection by probe hybridization.
+
+Splicing (4) - The editing of the nascent precursor messenger RNA (pre-mRNA) transcript into a mature messenger RNA (mRNA). After splicing, introns are removed and exons are joined together (ligated).
+
+Standard error (4) - The standard error (SE) of a statistic (most commonly the mean) is the standard deviation of its sampling distribution, or sometimes an estimate of that standard deviation. The standard error of the mean is ambiguously defined as either the standard deviation of the sample mean, or as an estimate of that statistic. When defined as the standard deviation of the sample mean, it can be expressed as: SE(X) = σ / n, where σ is the standard deviation of the population and n is the size (number of observations) of the sample.
+
+STR, short tandem repeat (microsatellite) (4) - Tract of repetitive DNA in which certain DNA motifs (ranging in length from 2–13 base pairs) are repeated, typically 5–50 times.
+
+Summary statistic values (15) - Estimated effect sizes and their standard errors for each single nucleotide polymorphism analysed in a genome-wide association study.
+
+Symbiosis (4) - Any type of a close and long-term biological interaction between two different biological organisms. Symbiosis can be obligatory, which means that one or both of the symbionts entirely depend on each other for survival, or facultative (optional) when they can generally live independently.
+
+Tag-SNP (4) - A representative single nucleotide polymorphism (SNP) in a region of the genome with high linkage disequilibrium that represents a group of SNPs called a haplotype. It is possible to identify genetic variation and association to phenotypes without genotyping every SNP in a chromosomal region. This reduces the expense and time of mapping genome areas associated with disease, since it eliminates the need to study every individual SNP. Tag SNPs are useful in whole-genome SNP association studies in which hundreds of thousands of SNPs across the entire genome are genotyped.
+
+Tandem Repeat (6) - A tandem repeat is a sequence of two or more DNA base pairs that is repeated in such a way that the repeats lie adjacent to each other on the chromosome. Tandem repeats are generally associated with non-coding DNA. In some instances, the number of times the DNA sequence is repeated is variable. Such variable tandem repeats are used in DNA fingerprinting procedures.
+
+Telomere (4) - A region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
+
+Trait variance (4) - The total variance of the trait. The variance itself is the expectation of the squared deviation of a random variable from its mean. Informally, it measures how far a set of (random) numbers are spread out from their average value.
+
+Transcription (4) - The first step of gene expression, in which a particular segment of DNA is copied into RNA (especially mRNA).
+
+Transcription factor (4) - A protein that controls the rate of transcription of genetic information from DNA to messenger RNA, by binding to a specific DNA sequence.
+
+Transcriptome (4) - The set of all RNA molecules in one cell or a population of cells. It is sometimes used to refer to all RNAs, or just mRNA, depending on the particular experiment. It differs from the exome in that it includes only those RNA molecules found in a specified cell population, and usually includes the amount or concentration of each RNA molecule in addition to the molecular identities.
+
+Translation (5) - The process of synthesizing an amino acid sequence (protein product) from the messenger RNA code.
+
+Transposable element (4) - A DNA sequence that can change its position within a genome, sometimes creating or reversing mutations and altering the cell's genetic identity and genome size.
+
+Transposon (2) - A class of DNA sequences that can move from one chromosomal site to another.
+
+VNTR - A variable number tandem repeat - see Tandem Repeat.
+
+Z-test (4) - Any statistical test for which the distribution of the test statistic under the null hypothesis can be approximated by a normal distribution. In this course we use Z = 𝛽/se, where 𝛽 is the estimated effect, and se is standard error of estimated effect.
+
+Zygote (4) - An eukaryotic cell formed by a fertilization event between two gametes. The zygote's genome is a combination of the DNA in each gamete, and contains all of the genetic information necessary to form a new individual.
+
+References:
+
+    Genetic Terms https://quizlet.com
+    Human Genome Project. The U.S. Department of Energy
+    U.S. National Library of Medicine. National Institute of Health. Department of Health & Human Services
+    Wikipedia
+    National Cancer Institute
+    National Human Genome Research Institute
+    U.S. National Library of Medicine. National Center for Biotechnology Information
+    Sandwalk
+    The free dictionary by Farlex
+    U.S. National Library of Medicine. Genetic Home Reference
+    Course Staff
+    MedicineNet.com
+    SpringerLink
+    Statsdirect.com
+    Nature.com
+    A tool for Genome-wide Complex Trait Analysis
+    U.S. National Library of Medicine. MedlinePlus
+    Huntingtone’s Outreach Project for Education, at Stanford
+    American Society for Biochemistry and Molecular Biology
+    International Society of Genetic Genealogy Wiki
+
+
