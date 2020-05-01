@@ -8,5 +8,13 @@ Basics of biology and immunology
     
     * https://www.coursera.org/learn/disease-genes/home/welcome
     
+    * https://www.healthknowledge.org.uk/public-health-textbook/disease-causation-diagnostic/2d-genetics/basic-genomic-concepts
+    
+    * https://www.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance/v/genetic-recombination-1
+    
+    * https://www.ncbi.nlm.nih.gov/books/NBK22076/
+    
+    * https://www.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance/v/genetic-recombination-1
+    
     
     
